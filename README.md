@@ -1,5 +1,5 @@
 # waterfall.model
-# Weather Modeling using Quadratic Equation 🌦️ (Waterfall Model)
+# Weather Modeling using Quadratic Equation  (Waterfall Model)
 
 ## 1. Waterfall Model
 The Waterfall model is **linear and sequential**. Each phase is completed before moving to the next.
