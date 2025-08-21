@@ -23,13 +23,13 @@ The Waterfall model is **linear and sequential**. Each phase is completed before
    - Fix bugs
    - Improve usability (e.g., better inputs, error handling)
 
-### ✅ Pros:
+###  Pros:
 - Clear, simple steps  
 - Best for small projects  
 
-### ❌ Cons:
+### Cons:
 - No flexibility if requirements change later  
 
 ---
 
-## 📌 Formula
+##  Formula
