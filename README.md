@@ -4,7 +4,7 @@
 ## 1. Waterfall Model
 The Waterfall model is **linear and sequential**. Each phase is completed before moving to the next.
 
-### 🔄 Phases:
+###  Phases:
 1. **Requirement Analysis**
    - Inputs: coefficients `a, b, c` and `time t`
    - Output: Predicted temperature `T`
